@@ -1,0 +1,41 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Node modules (if you have any)
+node_modules/
+
+# Logs
+*.log
+
+# Docker build artifacts
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.tar.gz
+
+
+merged_videos/
+uploads/
